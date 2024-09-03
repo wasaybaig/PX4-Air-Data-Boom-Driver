@@ -1,0 +1,5 @@
+menuconfig DRIVERS_AIR_DATA_BOOM
+	bool "air_data_boom"
+	default n
+	---help---
+		Enable support for air data boom
