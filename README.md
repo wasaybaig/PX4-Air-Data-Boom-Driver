@@ -14,7 +14,6 @@ This repository contains a custom driver for integrating an Air Data Boom sensor
 To begin, clone the PX4-Autopilot repository:
 ```bash
 git clone https://github.com/PX4/PX4-Autopilot.git --recursive
-cd PX4-Autopilot
 ```
 
 ### 2. Create a New Folder for the Driver
